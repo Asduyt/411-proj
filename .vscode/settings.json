@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chip8cpu.h": "c",
+        "stdio.h": "c"
+    }
+}
